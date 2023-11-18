@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bibin P Daniel</h1>
 <h3 align="center">A passionate software developer with a love for crafting digital experiences. My coding journey takes me across the diverse landscapes of Laravel, Django, Flutter, and the realms of Core Java and Python.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bibindaniel" alt="bibindaniel" /></a> </p>
-
 - 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Django and Laravel**
