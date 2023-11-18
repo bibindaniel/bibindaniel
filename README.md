@@ -47,9 +47,13 @@
 
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bibindaniel&show_icons=true&locale=en&layout=compact" alt="bibindaniel"/>
+</p>
+
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bibindaniel&show_icons=true&locale=en" alt="bibindaniel"/>
 </p>
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bibindaniel" alt="bibindaniel"/>
 </p>
+
