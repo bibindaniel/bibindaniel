@@ -2,7 +2,8 @@
 <h3 align="center">A passionate software developer with a love for crafting digital experiences. My coding journey takes me across the diverse landscapes of Laravel, Django, Flutter, and the realms of Core Java and Python.</h3>
 
 <p align="center">
-<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<br><br>
 </p>
 
 <p align="center">
