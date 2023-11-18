@@ -6,7 +6,8 @@
 - 💬 Ask me about **Django and Laravel**
 
 - 📫 How to reach me **bibindaniel10@gmail.com**
-<img align="right" alt="Coding" width="400" src="[https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif)">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
  I believe that great code is a work of art, and I'm here to paint my masterpiece. When not crafting elegant solutions, you might find me exploring the latest tech trends, sipping coffee, diving into a good book, enjoying a captivating movie, or spiking it up on the volleyball court.**
 
 <h3 align="left">Connect with me:</h3>
