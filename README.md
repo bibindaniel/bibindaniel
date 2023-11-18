@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer with a love for crafting digital experiences. My coding journey takes me across the diverse landscapes of Laravel, Django, Flutter, and the realms of Core Java and Python.</h3>
 
 <p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding" width="400"/>
+ <img alt="Coder GIF" height=250 width=350 src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
 </p>
 
 <p align="center">
