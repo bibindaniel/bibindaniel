@@ -6,9 +6,9 @@
 - 💬 Ask me about **Django and Laravel**
 
 - 📫 How to reach me **bibindaniel10@gmail.com**
-
-- ⚡ Fun fact **Absolutely! Here's an updated version that includes watching movies and playing volleyball in the sentence: --- I believe that great code is a work of art, and I'm here to paint my masterpiece. When not crafting elegant solutions, you might find me exploring the latest tech trends, sipping coffee, diving into a good book, enjoying a captivating movie, or spiking it up on the volleyball court.**
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+- ⚡ Fun fact **Absolutely! Here's an updated version that includes watching movies and playing volleyball in the sentence: --- I believe that great code is a work of art, and I'm here to paint my masterpiece. When not crafting elegant solutions, you might find me exploring the latest tech trends, sipping coffee, diving into a good book, enjoying a captivating movie, or spiking it up on the volleyball court.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bibin-p-daniel-b6b7ba211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bibin-p-daniel-b6b7ba211" height="30" width="40" /></a>
