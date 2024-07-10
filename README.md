@@ -52,5 +52,7 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bibindaniel" alt="bibindaniel"/>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bibindaniel&theme=violet-dark)](https://git.io/streak-stats)
+  
 </p>
 
