@@ -7,11 +7,6 @@
 </p>
 
 <p align="center">
-  <img alt="Laravel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/>
-
-</p>
-
-<p align="center">
   <b>🌱 Currently learning:</b> Flutter
 </p>
 
